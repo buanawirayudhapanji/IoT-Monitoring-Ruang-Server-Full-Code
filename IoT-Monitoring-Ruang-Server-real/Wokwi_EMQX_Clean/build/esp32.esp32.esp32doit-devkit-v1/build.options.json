@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "../..,../..",
+  "builtInLibrariesFolders": "/home/panji/.arduino15/libraries",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32doit-devkit-v1:UploadSpeed=921600,FlashFreq=80,DebugLevel=none,EraseFlash=none",
+  "hardwareFolders": "/home/panji/.arduino15/packages/esp32/hardware/esp32/3.3.12,/home/panji/.arduino15/packages/esp32/hardware/esp32/3.3.12",
+  "otherLibrariesFolders": "/home/panji/Arduino/libraries",
+  "sketchLocation": "/data/Projects/Sertifikasi/IoT-Monitoring-Ruang-Server-real/Wokwi_EMQX_Clean"
+}
